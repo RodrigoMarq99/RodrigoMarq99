@@ -1,7 +1,7 @@
 ### Bem-vindo ao meu GitHub! 👋
 
 <div>
-  <a href="https://www.linkedin.com/in/rodrigo-marq/">
+  <a align="center" dir="auto" href="https://www.linkedin.com/in/rodrigo-marq/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoMarq99&show_icons=true&theme=transparent" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMarq99&&layout=compact&langs_count=16&theme=transparent" />
 </div>
