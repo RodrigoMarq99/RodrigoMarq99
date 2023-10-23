@@ -1,8 +1,8 @@
 ### Bem-vindo ao meu GitHub! 👋
 
 <div>
-  <img img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RodrigoMarq99&show_icons=true&theme=transparent" href="https://www.linkedin.com/in/rodrigo-marq/ />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMarq99&&layout=compact&langs_count=16&theme=transparent" href="https://www.linkedin.com/in/rodrigo-marq/ />
+  <img img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RodrigoMarq99&show_icons=true&theme=transparent" href="https://www.linkedin.com/in/rodrigo-marq/" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMarq99&&layout=compact&langs_count=16&theme=transparent" href="https://www.linkedin.com/in/rodrigo-marq/" />
 </div>
 
 
